@@ -125,15 +125,15 @@ class QuizSCreen : AppCompatActivity() {
     private fun correctAnswer() {
         when (currQuestion.getAnswerNo()) {
             1 -> {
-                rb1.setTextColor(Color.GREEN)
+                rb1.setTextColor(getColor(R.color.correct_ans))
                 question.text = getString(R.string.correct_ans_1)
             }
             2 -> {
-                rb2.setTextColor(Color.GREEN)
+                rb2.setTextColor(getColor(R.color.correct_ans))
                 question.text = getString(R.string.correct_ans_2)
             }
             3 -> {
-                rb3.setTextColor(Color.GREEN)
+                rb3.setTextColor(getColor(R.color.correct_ans))
                 question.text = getString(R.string.correct_ans_3)
             }
         }

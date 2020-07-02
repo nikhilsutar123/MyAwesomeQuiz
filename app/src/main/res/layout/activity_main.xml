@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:padding="16dp"
-    android:background="#FFDE04"
+    android:background="#FAFAFA"
     tools:context=".MainActivity">
 
     <TextView
@@ -31,7 +31,7 @@
 
     <Button
         android:id="@+id/start_button"
-        android:textColor="#0336ff"
+        android:textColor="#F57C00"
         android:background="@drawable/rounded_button"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
