@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My Quiz App</string>
+    <string name="highscore_text">Highscore:</string>
+    <string name="start_quiz_button">start quiz</string>
+    <string name="score">Score: 0</string>
+    <string name="total_questions">Question: 1/x</string>
+    <string name="timer">00:30</string>
+    <string name="confirm_answer">confirm</string>
+    <string name="next_answer">Next</string>
+    <string name="finish">Finish</string>
+
+    <string name="correct_ans_1">Answer 1 is correct</string>
+    <string name="correct_ans_2">Answer 2 is correct</string>
+    <string name="correct_ans_3">Answer 3 is correct</string>
+
+</resources>
